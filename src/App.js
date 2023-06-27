@@ -1,9 +1,9 @@
 // import logo from './logo.svg';
 import './App.css';
-import MyBtech from './MyBtech';
-import MyCollege from './MyCollege';
-import MySchool from "./MySchool";
-import MyName from './MyName';
+import MyBtech from './components/MyBtech';
+import MyCollege from "./components/MyCollege";
+import MySchool from "./components/MySchool";
+import MyName from "./components/MyName";
 
 function App() {
   return (
